@@ -1,0 +1,30 @@
+body {
+        background-color:#C0DEFF ;
+    
+    }
+    hr{
+    border-style: dashed;
+    border-color: black;
+}
+
+h1{
+    color: white;
+}
+
+h2{
+    color: white;
+}
+
+p{
+    color:#19A7CE;
+}
+
+ul{
+    color: #19A7CE;
+}
+ol{
+    color: #19A7CE;
+}
+tr{
+    color: #19A7CE;
+}
